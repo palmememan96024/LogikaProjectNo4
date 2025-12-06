@@ -39,8 +39,7 @@ header {
     background-color: #731E1E;
     width: 130px;
     flex-wrap: wrap;
-    left: 80%;
-    position: absolute;
+    margin-left: 200px;
 }
 
 .name2 {
