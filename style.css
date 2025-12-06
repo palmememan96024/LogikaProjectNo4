@@ -39,6 +39,7 @@ header {
     width: 130px;
     flex-wrap: wrap;
     left: 30%;
+    position: absolute;
 }
 
 .name2 {
