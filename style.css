@@ -38,6 +38,7 @@ header {
     background-color: #731E1E;
     width: 130px;
     flex-wrap: wrap;
+    left: 30%;
 }
 
 .name2 {
