@@ -1,0 +1,263 @@
+html{
+    scroll-behavior: smooth;
+    display: flex;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #534F4F;
+    /* display: flex;
+    flex-wrap: wrap; */
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    padding: 20px;
+    position: fixed;
+    background-color: #BF2F2F;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-shadow: 0, 10, 10, 0, black;
+}
+
+.name {
+    font-family: "Jersey 10";
+    font-weight: 400;
+    font-size: 60px;
+    color: #fff;
+    margin: 20px;
+    flex-wrap: wrap;
+}
+
+.searchbar {
+    background-color: #731E1E;
+    width: 130px;
+    flex-wrap: wrap;
+}
+
+.name2 {
+    font-family: "Abel";
+    font-weight: 400;
+    font-size: 40px;
+    bottom: 35%;
+    left: 40%;
+    position: absolute;
+    background-color: #731E1E;
+    color: #501919;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 70px;
+    flex-wrap: wrap;
+}
+
+.name3 {
+    font-family: "Jersey 10";
+    font-weight: 400;
+    font-size: 50px;
+    bottom: 35%;
+    left: 80%;
+    position: absolute;
+    color: white;
+    flex-wrap: wrap;
+}
+
+.name4 {
+    margin-left: 300px;
+    margin-top: 200px;
+    text-align: center;
+    flex-wrap: wrap;
+    font-size: 35px;
+    color: white;
+    margin-right: 280px;
+}
+
+.site {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.text1 {
+    margin-top: 50px;
+    width: 450px;
+    margin-right: 50px;
+    color: white;
+}
+
+.img1 {
+    width: 300px;
+    height: 180px;
+    margin-top: 25px;
+}
+
+.text2 {
+    justify-content: space-around;
+    width: 450px;
+    margin-left: 45px;
+    margin-right: 100px;
+    color: white
+}
+
+.p1 {
+    color: white;
+    text-align: right;
+    margin-bottom: 100px;
+}
+
+.text3 {
+    margin-top: 25px;
+    width: 450px;
+    margin-right: 100px;
+    color: white;
+    margin-left: 50px;
+}
+
+.name7 {
+    text-align: center;
+    flex-wrap: wrap;
+    font-size: 35px;
+    color: white;
+    margin-top: 35px;
+    margin-left: 300px;
+    margin-right: 280px;
+}
+
+.name6 {
+    margin-left: 330px;
+    text-align: center;
+    flex-wrap: wrap;
+    font-size: 35px;
+    color: white;
+    margin-top: 35px;
+}
+
+.name5 {
+    margin-left: 300px;
+    text-align: center;
+    flex-wrap: wrap;
+    font-size: 35px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    margin-right: 280px;
+}
+
+.gimg1 {
+    width: 400px;
+    height: 200px;
+    margin-top: 25px;
+    margin-right: 35px;
+}
+
+.gallery {
+    margin-top: 60px;
+    width: 770px;
+    margin-left: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.gimg2 {
+    width: 325px;
+    height: 300px;
+    margin-top: 25px;
+}
+
+.gimg3 {
+    width: 250px;
+    height: 200px;
+    margin-right: 110px;
+    margin-top: 25px;
+}
+
+main {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+nav {
+    text-align: center;
+    /* margin-right: 175px; */
+    font-family: "Jersey 10";
+}
+
+nav a {
+    margin-left: 25px;
+    margin-right: 25px;
+    font-family: "Jersey 10";
+    font-weight: 400;
+    color:white;
+    text-decoration: none;
+    /* flex-wrap: wrap; */
+}
+
+.name8 {
+    font-family: "Jersey 10";
+    font-weight: 400;
+    color: #fff;
+    flex-wrap: wrap;
+}
+
+.text4 {
+    width: 450px;
+    margin-right: 100px;
+    color: white;
+    text-align: left;
+    margin-top: 50px;
+}
+
+footer {
+    background-color: #731E1E;
+    margin-top: 35px;
+    width: 100%;
+}
+
+footer p {
+    color: white;
+    margin-left: 25px;
+}
+
+footer a {
+    color: blue;
+    text-decoration: solid;
+}
+
+.fa1 {
+    margin-left: 5px;
+}
+
+footer p, a {
+    padding: 20px;
+}
+
+.imgX {
+    width: 280px;
+    height: 220px;
+    margin-top: 50px;
+}
+
+.trivp {
+    color: white;
+    text-align: center;
+}
+
+.name9 {
+    margin-left: 300px;
+    margin-top: 20px;
+    text-align: center;
+    flex-wrap: wrap;
+    font-size: 35px;
+    color: white;
+    margin-right: 280px;
+}
+
+.gallery p {
+    text-align: center;
+}
