@@ -31,6 +31,7 @@ header {
     font-size: 60px;
     color: #fff;
     margin: 20px;
+    margin-left: 50px;
     flex-wrap: wrap;
 }
 
