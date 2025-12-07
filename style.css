@@ -70,13 +70,11 @@ header {
 }
 
 .name4 {
-    margin-left: 300px;
     margin-top: 200px;
     text-align: center;
     flex-wrap: wrap;
     font-size: 35px;
     color: white;
-    margin-right: 280px;
 }
 
 .site {
