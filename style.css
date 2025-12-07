@@ -76,7 +76,8 @@ header {
     flex-wrap: wrap;
     font-size: 35px;
     color: white;
-    margin-left: 200px;
+    margin-left: 280px;
+    margin-right: 100px;
 }
 
 .site {
@@ -86,7 +87,7 @@ header {
 
 .text1 {
     margin-top: 50px;
-    width: 500px;
+    width: 450px;
     margin-right: 100px;
     color: white;
 }
