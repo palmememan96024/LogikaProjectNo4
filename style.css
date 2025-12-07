@@ -76,6 +76,7 @@ header {
     flex-wrap: wrap;
     font-size: 35px;
     color: white;
+    margin-left: 100px;
 }
 
 .site {
